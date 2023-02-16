@@ -399,3 +399,5 @@ v3.x | Fully automatic | Through plugins, scripts, machine learning and so on, a
 | [Lemonawa](https://github.com/Lemonawa) | Simplified Chinese translation |
 | [LuxNegra](https://github.com/LuxNegra) | French translation |
 | [MosamXu](https://github.com/MosamXu) | Simplified Chinese translation |
+
+   下载地址：https://886121.xyz          打开网站选择：123云盘/pc工具
